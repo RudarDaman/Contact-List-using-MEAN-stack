@@ -15,3 +15,7 @@ npm install nodemon
 npm install -g @angular/cli
 
 ng new client
+
+ng g component contacts
+
+ng g service contact
