@@ -1,0 +1,17 @@
+npm init
+
+npm install express --save
+
+npm install mongoose cors body-parser --save
+
+//Mongoose - document mapper for MongoDB
+//Body-Parser - parse incoming json data
+//Cors - server core running on different cors than client side cors
+
+npm install nodemon
+//npm install -g --force nodemon
+// automatically start server when any change is there
+
+npm install -g @angular/cli
+
+ng new client
